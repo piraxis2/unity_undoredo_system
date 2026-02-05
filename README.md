@@ -2,10 +2,6 @@
 
 Godot의 `UndoRedoManager`에서 영감을 받은 유니티용 범용 Undo/Redo 시스템입니다.
 
-## 설치 방법
-
-이 폴더(`UndoRedo`)는 로컬 패키지로 사용할 수 있습니다. `Packages` 폴더로 옮기거나 `Assets` 폴더 내에 그대로 두고 사용할 수 있습니다.
-
 ## 사용법
 
 ### 기본 사용법
