@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.piraxis.undoredosystem",
+  "version": "1.0.0",
+  "displayName": "Undo Redo System",
+  "description": "A generic Undo/Redo system similar to Godot's UndoRedoManager",
+  "unity": "2020.3",
+  "keywords": [
+    "undo",
+    "redo",
+    "command",
+    "pattern"
+  ],
+  "author": {
+    "name": "piraxis"
+  }
+}
